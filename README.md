@@ -1,6 +1,6 @@
 # Blockchain-based Gamified Rewards Platform
 
-**University of New South Wales – COMP6452 2024 T3 Graduation Project**  
+**University of New South Wales – COMP6452 2024 T2 Blockchain Peoject**  
 Group: **BOOM**
 
 ## 📌 Overview
