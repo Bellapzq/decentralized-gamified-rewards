@@ -1,0 +1,43 @@
+.tile {
+  width: 100%;
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  height: 100%;
+}
+
+.tile:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.tile .MuiCardContent-root {
+  text-align: center;
+}
+
+
+
+.gas-prices {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+}
+
+.gas-price {
+  width:100%;
+  margin: 0;
+}
+
+.title {
+  margin: 0; /* 去除默认的 margin */
+  padding: 0; /* 去除默认的 padding */
+}
+
+
+@media (min-width: 768px) {
+  .gas-prices {
+    flex-direction: row;
+    
+  }
+}

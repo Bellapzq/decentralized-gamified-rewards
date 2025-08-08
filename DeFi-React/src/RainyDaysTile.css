@@ -1,0 +1,15 @@
+.tile {
+    background-color: rgba(119, 197, 236, 0.3);
+    width: 100%
+
+  }
+
+.tile h3 {
+    margin: 0;
+    font-size: 1.2em;
+}
+
+.tile h1 {
+    font-size: 3.3em; 
+    margin: 0;
+}
